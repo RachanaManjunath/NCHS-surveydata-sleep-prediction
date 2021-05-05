@@ -1,6 +1,6 @@
 ## NCHS-surveydata-sleep-prediction
 
-we are going to use NHANES dataset from NHANES package. This is survey data collected by the US National Center for Health Statistics (NCHS) which has conducted a series of health and nutrition surveys since the early 1960s. Since 1999 approximately 5,000 individuals of all ages are interviewed in their homes every year and complete the health examination component of the survey. The health examination is conducted in a mobile examination centre (MEC). To learn mode about this dataset you can take a look at this link.
+We are going to use NHANES dataset from NHANES package. This is survey data collected by the US National Center for Health Statistics (NCHS) which has conducted a series of health and nutrition surveys since the early 1960s. Since 1999 approximately 5,000 individuals of all ages are interviewed in their homes every year and complete the health examination component of the survey. The health examination is conducted in a mobile examination centre (MEC). To learn mode about this dataset you can take a look at this link.
 
 ## Approach and Steps
 
